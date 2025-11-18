@@ -48,5 +48,5 @@ powershell.exe -STA -ExecutionPolicy Bypass -File "C:\Path\To\Server-Performance
 
 Screenshots
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Dashboard Screenshot" width="600"/>
+  <img src="Screenshots/Dashboard.png" alt="Dashboard Screenshot" width="600"/>
 </p>
