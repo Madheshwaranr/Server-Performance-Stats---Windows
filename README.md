@@ -46,10 +46,7 @@ Click STOP to safely close the dashboard.
 
 powershell.exe -STA -ExecutionPolicy Bypass -File "C:\Path\To\Server-Performance-Dashboard.ps1"
 
-⚙️ Customization
-
-Refresh Interval: Change $timer.Interval (in milliseconds) to update more or less frequently.
-
-CPU/Memory Highlight Thresholds: Adjust the conditions in the script (CPU > 20, Memory > 500 MB) to suit your needs.
-
 Screenshots
+<p align="center">
+  <img src="screenshots/dashboard.png" alt="Dashboard Screenshot" width="600"/>
+</p>
